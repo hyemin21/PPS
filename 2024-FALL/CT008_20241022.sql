@@ -1,6 +1,6 @@
 """
-https://school.programmers.co.kr/learn/courses/30/lessons/293259
-잡은 물고기의 평균 길이 구하기
+https://school.programmers.co.kr/learn/courses/30/lessons/299310
+연도별 대장균 크기의 편차 구하기
 """
 WITH YEARLY_MAX AS (
     SELECT 
